@@ -7,3 +7,4 @@ We’ll see how to:
 3. Collect and process Joint Coordinates using Pandas
 4. Train a custom Pose Classification model using Scikit-Learn
 5. Decode Body Language in Real time
+ 
